@@ -1,3 +1,3 @@
 print("hello world!")
-print("Czesc swiecie")
-print("witaj masterze")
+print("Czy wyjdzie?")
+print("godzina do konca zajec")
